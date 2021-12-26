@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @bhanusinghp100
-- 👀 I’m interested in ...
-- 🌱 I’m currently working as software Engineer having 3 years of experince in ASP .net MVC  ...
-- 💞️ I’m learning vue js with firebase  ...
-- 📫 Please feel free for any collbration my email is bhanusinghp100@gmail.com ...
+# y
 
-<!---
-bhanusinghp100/bhanusinghp100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> y
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
